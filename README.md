@@ -1,6 +1,6 @@
 ## Opa, tudo bem! Eu sou Caio Eustáquio 👋
 
-- 🔭 Hoje estudo e trabalho como full-stack
+- 🔭 Hoje estudo e trabalho como desenvolvedor web
 - 🌱 Estudando NodeJs
 -->
 
