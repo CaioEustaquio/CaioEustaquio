@@ -4,7 +4,7 @@
 - 🌱 Estudando NodeJs
 -->
 
- ## Linguagens e tecnologias 💻
+Linguagens e tecnologias 💻
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,8 +15,6 @@
   <img align="center" alt="Caio-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
   
-  ##
-
 <div>
   <a href="https://github.com/seu-usuário-aqui">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEustaquio&layout=compact&langs_count=7&theme=dracula"/>
