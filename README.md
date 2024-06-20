@@ -14,6 +14,14 @@
 </div>
   
   ##
+
+<div>
+  <a href="https://github.com/seu-usuário-aqui">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioEustaquio&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioEustaquio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>  
+
+  ##
  
 <div>
   <a href = "mailto:contatocaioeustaquio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
