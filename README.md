@@ -1,7 +1,7 @@
 ## Opa, tudo bem! Eu sou Caio Eustáquio 👋
 
-- 🔭 Hoje estudo e trabalho como desenvolvedor web
-- 🌱 Estudando NodeJs
+- 🔭 Sou um desenvolvedor de software com proficiência em diversas tecnologias e atuo como desenvolvedor fullstack.
+- 🌱 Sou aluno geração caldeira 2024 e estou Estudando JAVA ☕
 -->
 
 ## Linguagens e tecnologias 💻
@@ -9,6 +9,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Caio-SASS" height="30" width="40" src="//cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-JQUERY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
   <img align="center" alt="Caio-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
